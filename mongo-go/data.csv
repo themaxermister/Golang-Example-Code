@@ -1,0 +1,5 @@
+name, alias, signed
+"Tony Stark", "Iron Man", true
+"Steve Rodgers", "Captain America", false
+"Vision", "Vision", true
+"Clint Barton", "Hawkeye", false
