@@ -1,0 +1,5 @@
+Mandatory
+----------
+addressinfo.json
+fileinfo.json
+sellerinfo.json [3] / original.json [Big]
