@@ -1,0 +1,3 @@
+company,heros
+DC Heros,"[{"name":"Bruce Wane","alias":"Batman","signed":false},{"name":"Clark Kent","alias":"Superman","signed":true}]"
+Marvel,"[{"name":"Wade Wilson","alias":"Deadpool","signed":false},{"name":"Peter parker","alias":"Spiderman","signed":true}]"
